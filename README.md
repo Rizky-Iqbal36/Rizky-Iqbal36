@@ -11,10 +11,16 @@
 </p>
 </div>
 
+<br />
+<br />
+
 ### Github Stats :
 
 [![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky-Iqbal36&layout=compact)](https://github.com/Rizky-Iqbal36) 
 [![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizky-Iqbal36&show_icons=true&count_private=true)](https://github.com/Rizky-Iqbal36)
+
+<br />
+<br />
 
 ### Languages and Tools:
 
