@@ -46,8 +46,8 @@
 ### My Portofolio:
 
 <p align="center">
-&nbsp; <a href="https://library-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679548/Library_Project/Icon_erx5br.png" width="50" /><br />Lib'rary</a>  
-&nbsp; <a href="https://literature-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679949/Literature_Project/Icon_ibjqhs.png" width="50" /><br />Literature</a>
+&nbsp; <a href="https://library-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679548/Library_Project/Icon_erx5br.png" width="50" /></a>  
+&nbsp; <a href="https://literature-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679949/Literature_Project/Icon_ibjqhs.png" width="50" /></a>
 </p>
 
 [instagram]: https://www.instagram.com/rizki_iqbal48
