@@ -45,13 +45,14 @@
 
 ### My Portofolio:
 
-<p align="center">
-&nbsp; <a href="https://library-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679548/Library_Project/Icon_erx5br.png" width="50" /></a>  
-&nbsp; <a href="https://literature-qq36.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679949/Literature_Project/Icon_ibjqhs.png" width="50" /></a>
-</p>
+ &nbsp;[<img align="center" alt="RizkyIqbal | Email" width="75px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679548/Library_Project/Icon_erx5br.png" />][library]
+ &nbsp;[<img align="center" alt="RizkyIqbal | Email" width="75px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679949/Literature_Project/Icon_ibjqhs.png" />][literature]
 
 [instagram]: https://www.instagram.com/rizki_iqbal48
 [linkedin]: https://www.linkedin.com/in/rizki-iqbal
 [website]: https://rizky-iqbal.netlify.app
 [email]: mailto:rizkiiqbal36@gmail.com
+
+[library]: https://library-qq36.netlify.app
+[literature]: https://literature-qq36.netlify.app
 
