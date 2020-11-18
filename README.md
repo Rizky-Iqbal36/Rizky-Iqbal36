@@ -3,7 +3,6 @@
 
 ### Hi there I'm [Muhammad Rizky Iqbal Syaifullah](https://rizky-iqbal.netlify.app/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 <img src="https://komarev.com/ghpvc/?username=Rizky-iqbal36" alt="Rizky-iqbal36" />
-
 <div>
  <p>
    A person who love to make something from nothing
@@ -26,5 +25,18 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C-language" width="30px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676884/c-programming_aeb7ba.png" />
+<img align="left" alt="C-language" width="31px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676884/c-programming_aeb7ba.png" />
 <img align="left" alt="CPP-Language" width="26px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676884/C__Logo_q1vcei.png" />
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="RizkyIqbal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="RizkyIqbal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="RizkyIqbal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/rizki_iqbal48
+[linkedin]: https://www.linkedin.com/in/rizki-iqbal
+[website]: https://rizky-iqbal.netlify.app/
