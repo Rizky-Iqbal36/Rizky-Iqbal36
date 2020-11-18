@@ -5,7 +5,9 @@
 <img src="https://komarev.com/ghpvc/?username=Rizky-iqbal36" alt="Rizky-iqbal36" />
 <div>
  <p>
-   A person who love to make something from nothing
+   A person who love to make something from nothing <br />
+  ❤️ Programming <br />
+  ❤️ 3D Modelling <br />
 </p>
 </div>
 
