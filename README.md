@@ -25,6 +25,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Sequelize" width="26px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676885/sequelize_ekerhb.png" />
+<img align="left" alt="Sequelize" width="26px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605677216/sequelize_ekerhb.png" />
 <img align="left" alt="C-language" width="26px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676884/c-programming_aeb7ba.png" />
 <img align="left" alt="CPP-Language" width="26px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605676884/C__Logo_q1vcei.png" />
