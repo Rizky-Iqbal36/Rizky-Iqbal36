@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://image.freepik.com/free-vector/illustration-graphs_53876-28520.jpg" align="center" alt="Github Readme Stats" />
+ <img width="500px" src="https://image.freepik.com/free-vector/illustration-graphs_53876-28520.jpg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
