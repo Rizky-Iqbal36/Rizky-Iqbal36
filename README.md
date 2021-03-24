@@ -16,7 +16,7 @@
 ### Github Stats :
 
 [![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky-Iqbal36&layout=compact&show_icons=true&theme=radical)](https://github.com/Rizky-Iqbal36) 
-[![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizky-Iqbal36&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Rizky-Iqbal36)
+[![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizky-Iqbal36&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Rizky-Iqbal36)
 
 <br />
 <br />
