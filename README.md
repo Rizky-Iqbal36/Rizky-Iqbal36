@@ -53,7 +53,7 @@
  &nbsp;[<img align="center" alt="RizkyIqbal | Email" width="75px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679548/Library_Project/Icon_erx5br.png" />][library]
  &nbsp;[<img align="center" alt="RizkyIqbal | Email" width="75px" src="https://res.cloudinary.com/rizkyiqbal/image/upload/v1605679949/Literature_Project/Icon_ibjqhs.png" />][literature]
 
-[instagram]: https://www.instagram.com/rizki_iqbal48
+[instagram]: https://www.instagram.com/rizky_iqbal48
 [linkedin]: https://www.linkedin.com/in/rizki-iqbal
 [website]: https://rizky-iqbal.netlify.app
 [email]: mailto:rizkiiqbal36@gmail.com
