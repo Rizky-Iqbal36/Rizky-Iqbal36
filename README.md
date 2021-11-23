@@ -19,7 +19,7 @@
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend                    | React, React Native|
 | Backend                     | Node js, Nest js, Graphql, Docker, Kubernetes, MongoDB, PostgreSQL, Redis, Socket.IO |
-| Software Practices & Others | CI/CD, Design Pattern|
+| Software Practices & Others | CI/CD, Design Pattern, Event Driven System|
 | Programming Languages       | Javascript, Typescript,|
 
 ### Github Stats :
