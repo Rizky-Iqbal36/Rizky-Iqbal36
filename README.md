@@ -24,7 +24,15 @@
 
 ### Github Stats :
 
+<h1 align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky-Iqbal36&layout=compact&show_icons=true&theme=radical&langs_count=8)](https://github.com/Rizky-Iqbal36)
+ 
+ </h1>
+ <h1 align="center">
+ 
 [![Muhammad Rizky Iqbal Syaifullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rizky-Iqbal36&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Rizky-Iqbal36)
+ 
+ </h1>
 
 
