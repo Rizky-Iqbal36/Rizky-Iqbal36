@@ -19,7 +19,7 @@
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend                    | React, React Native|
 | Backend                     | Node js, Nest js, Express, fastify, Graphql, Docker, Kubernetes, Firebase, MongoDB, PostgreSQL, Redis, Socket.IO, Jest, Mocha |
-| Software Practices & Others | CI/CD, Design Pattern, Event Driven System|
+| Software Practices & Others | CI/CD, Design Pattern, Event Driven System, Onion Principle|
 | Programming Languages       | Javascript, Typescript,|
 
 ### Github Stats :
