@@ -18,9 +18,9 @@
 | Domain                      | Tools                                                                                                                                                             |
 | :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend                    | React, React Native|
-| Backend                     | Node js, Nest js, Express, Fastify, Graphql, Docker, Kubernetes, Firebase, MongoDB, PostgreSQL, Redis, Socket.IO, Jest, Mocha, Heroku, Cloudinary|
+| Backend                     | Node js, Nest js, Express, Fastify, Lumen, Graphql, Docker, Kubernetes, Firebase, MongoDB, PostgreSQL, Redis, Socket.IO, Jest, Mocha, Heroku, Cloudinary|
 | Software Practices & Others | CI/CD, API Specification, Design Pattern, TDD, Onion Principle|
-| Programming Languages       | Typescript, Javascript|
+| Programming Languages       | Typescript, Javascript, PHP|
 
 ### Github Stats :
 
