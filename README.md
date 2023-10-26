@@ -1,5 +1,5 @@
 [![An image of @rizky_iqbal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rizky_iqbal)](https://holopin.io/@rizky_iqbal)
-### Hi there I'm [Muhammad Rizky Iqbal Syaifullah](https://rizky-iqbal.netlify.app/) <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### Hi there 👋 I'm [Muhammad Rizky Iqbal Syaifullah](https://rizky-iqbal.netlify.app/)
 <img src="https://komarev.com/ghpvc/?username=Rizky-iqbal36" alt="Rizky-iqbal36" />
 <div>
  <p>
